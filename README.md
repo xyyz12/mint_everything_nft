@@ -29,7 +29,7 @@ tokenId  +  amount  +  signature  +  address
 
 ![image](https://github.com/xyyz12/mint_everything_nft/assets/91812763/51c94ffe-8716-456e-ab0c-dc98180900d9)
 
-发现多了一个authorization,尴尬了，得解决啊
+发现多了一个authorization: 'Bearer xxxxx' ,尴尬了，得解决啊
 
 🎯 目标出现，接下来，我们的方向就转向了如何模拟这条请求，获取需要的参数
 
