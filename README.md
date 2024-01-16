@@ -47,6 +47,9 @@ tokenId  +  amount  +  signature  +  address
 
 1、用私钥签名一条普通消息（钱包地址+时间戳）
 
+![image](https://github.com/xyyz12/mint_everything_nft/assets/91812763/0ada7719-d406-444e-853c-a184bde47c38)
+
+
 2、使用这个签名，向服务器发起登陆请求，获取 bearer token
 
 3、拿着 bearer token，模拟签到 check in
