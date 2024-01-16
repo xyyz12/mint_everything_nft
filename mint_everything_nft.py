@@ -93,6 +93,7 @@ class MyClass:
             print(f"X 获取 NFT {token_id} 的签名失败: {e}")
             return None
 
+    #https://wtftx.com/0xe7e8e824670389986c09bd962c0a82327650099177a30032ffff6076ef94fb33
     def mint(self, web3, token_id, amount, signature):
         contract_address = "0xe0e9e2f208eb5c953345526bcb515120128298cf"
         to_address = web3.toChecksumAddress(contract_address)
