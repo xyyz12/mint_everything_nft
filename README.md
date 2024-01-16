@@ -9,3 +9,6 @@ https://explorer.zksync.io/tx/0xe7e8e824670389986c09bd962c0a82327650099177a30032
 
 ![a7a75b0c9a635e709e7e950be1b6dc7](https://github.com/xyyz12/mint_everything_nft/assets/91812763/3a70e050-ded3-4e30-8673-96ebbaac2d1e)
 
+从这笔 mint 交易可以看到，参数只有三个：
+
+tokenId  +  amount  +  signature
