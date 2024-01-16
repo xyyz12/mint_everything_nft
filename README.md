@@ -29,5 +29,19 @@ tokenId  +  amount  +  signature  +  address
 
 
 
+一切技术难点都已被突破，下面可以从头至尾梳理一下思路了：
+
+1、用私钥签名一条普通消息（钱包地址+时间戳）
+
+2、使用这个签名，向服务器发起登陆请求，获取 bearer token
+
+3、拿着 bearer token，模拟签到 check in
+
+4、签到后，获取可以 claim 的 NFT Token ID 列表
+
+5、使用 bearer token, token id, wallet address，获取 NFT Mint 所需的最终签名
+
+6、使用 NFT 签名、Token ID、钱包地址，发起 Web3 请求，Mint NFT
+
 
 
