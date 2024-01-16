@@ -33,13 +33,13 @@ tokenId  +  amount  +  signature  +  address
 
 🎯 目标出现，接下来，我们的方向就转向了如何模拟这条请求，获取需要的参数
 
-![image](https://github.com/xyyz12/mint_everything_nft/assets/91812763/a4192eca-1ad6-40c1-80af-436829c70edb)
+![image](https://github.com/xyyz12/mint_everything_nft/assets/91812763/b9666141-05e6-46f2-8dfd-469a52b0c5e3)
 
-目标bear token 在这里获取了
+左边的图中的signature不是我想要的，所以得想办法获取signature, 但是，目标bear token 在这里获取了
 
 ![image](https://github.com/xyyz12/mint_everything_nft/assets/91812763/8df893eb-ba6e-492c-9e1f-f18b856afb99)
 
-左边的图中的signature不是我想要的，所以得想办法获取signature
+
 
 一切技术难点都已被突破，下面可以从头至尾梳理一下思路了：
 
