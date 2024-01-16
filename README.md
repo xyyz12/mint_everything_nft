@@ -39,7 +39,7 @@ tokenId  +  amount  +  signature  +  address
 
 ![image](https://github.com/xyyz12/mint_everything_nft/assets/91812763/8df893eb-ba6e-492c-9e1f-f18b856afb99)
 
-
+当你点击网站上的连接钱包时，这个签名动作本身，就会生成一个 signature。发现真正的signature在这里
 
 一切技术难点都已被突破，下面可以从头至尾梳理一下思路了：
 
